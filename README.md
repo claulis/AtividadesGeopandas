@@ -71,7 +71,7 @@ A articulação entre dados reais do IBGE e ferramentas de visualização transf
 
 ---
 
-## Atividade 2 — Traçando o Brasil
+## [Atividade 2 — Traçando o Brasil](Exemplo2.md)
 
 **Mapas temáticos com GeoPandas — IDH e Cobertura Vegetal por Estado**
 
@@ -116,7 +116,7 @@ A produção de mapas pelos próprios estudantes — e não apenas a leitura de 
 
 ---
 
-## Atividade 3 — Conectando Lugares
+## [Atividade 3 — Conectando Lugares](Exemplo3.md)
 
 **Rotas, distâncias e desigualdades territoriais com Folium**
 
@@ -156,59 +156,4 @@ Ao trabalhar com a **própria realidade espacial**, os alunos deixam de ser obse
 
 > ⚠️ **Atenção:** o Folium não vem pré-instalado no Colab. A Célula 1 faz a instalação automaticamente — execute-a primeiro e aguarde antes de prosseguir.
 
----
 
-## Como começar
-
-### Pré-requisitos
-
-Nenhum software precisa ser instalado. Basta ter uma conta Google para usar o [Google Colab](https://colab.research.google.com) gratuitamente.
-
-### Passo a passo
-
-```bash
-# 1. Acesse o Google Colab
-https://colab.research.google.com
-
-# 2. Crie um novo notebook
-Arquivo → Novo notebook
-
-# 3. Copie o conteúdo do arquivo .py desejado
-# 4. Cole célula por célula no notebook
-# 5. Execute com Shift+Enter em cada célula
-```
-
-### Atalhos essenciais no Colab
-
-| Atalho | Ação |
-|--------|------|
-| `Shift + Enter` | Executa a célula e avança |
-| `Ctrl + Enter` | Executa a célula sem avançar |
-| `Ctrl + F9` | Executa todas as células |
-| `Ctrl + M + B` | Nova célula abaixo |
-
----
-
-## Referências
-
-CALLAI, Helena Copetti. Aprendendo a ler o mundo: a geografia nos anos iniciais do ensino fundamental. *Cadernos CEDES*, Campinas: UNICAMP, v. 25, n. 66, p. 227-247, maio-ago. 2005. Disponível em: <https://www.scielo.br/j/ccedes/a/3BJWQ6GqwGCfTbpDhyFmqpS>. Acesso em: mar. 2026.
-
-IBGE. *Censo Demográfico 2022*. Rio de Janeiro: IBGE, 2023. Disponível em: <https://sidra.ibge.gov.br>. Acesso em: mar. 2026.
-
-IBGE. *Malhas territoriais — BR_UF_2022*. Rio de Janeiro: IBGE, 2022. Disponível em: <https://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais>. Acesso em: mar. 2026.
-
-MAPBIOMAS. *Coleção 8 — Estatísticas de uso e cobertura da terra*. São Paulo: MapBiomas, 2022. Disponível em: <https://mapbiomas.org/estatisticas>. Acesso em: mar. 2026.
-
-PNUD BRASIL. *Atlas do Desenvolvimento Humano no Brasil*. Brasília: PNUD, 2021. Disponível em: <https://atlasbrasil.org.br>. Acesso em: mar. 2026.
-
-VAN DEN BOSSCHE, Joris et al. *geopandas/geopandas: v1.1.2*. [S. l.]: Zenodo, 2025. Disponível em: <https://doi.org/10.5281/zenodo.18024156>. Acesso em: mar. 2026.
-
-WING, Jeannette M. Computational thinking. *Communications of the ACM*, New York: ACM, v. 49, n. 3, p. 33-35, mar. 2006. Disponível em: <https://dl.acm.org/doi/10.1145/1118178.1118215>. Acesso em: mar. 2026.
-
----
-
-<div align="center">
-
-Desenvolvido para a **Licenciatura em Geografia** · Python · Dados abertos · Educação pública
-
-</div>
