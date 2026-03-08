@@ -15,6 +15,7 @@
 4. Execute com **Shift+Enter** em cada célula, ou vá em **Ambiente de execução → Executar tudo**
 
 > **Nenhuma instalação é necessária.** O Google Colab já vem com geopandas, pandas e matplotlib pré-instalados. Caso apareça erro de importação, rode `!pip install geopandas --quiet` na primeira célula.
+> **Código completo [aqui](Exemplo2.ipynb)**
 
 > ⚠️ **Atenção:** a Célula 2 faz o download do shapefile diretamente do servidor do IBGE (~30 MB). Aguarde a conclusão antes de executar as células seguintes — o progresso aparece na barra de execução.
 
