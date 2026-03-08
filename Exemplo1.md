@@ -15,6 +15,7 @@
 
 > **Nenhuma instalação é necessária.** O Google Colab já vem com pandas e matplotlib pré-instalados.
 
+> **Código completo [aqui](Exemplo1.ipynb)**
 ---
 
 ## Estrutura do código — 7 células
