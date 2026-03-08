@@ -17,6 +17,7 @@
 5. Execute as demais com **Shift+Enter**, ou use **Ambiente de execução → Executar tudo**
 
 > ⚠️ **Atenção:** diferente das atividades anteriores, o Folium **não vem pré-instalado** no Colab. A Célula 1 faz a instalação automaticamente — aguarde a conclusão antes de executar as demais.
+>  **Código completo [aqui](Exemplo3.ipynb)**
 
 > 💡 **Para visualizar os mapas no Colab** (sem precisar baixar o arquivo), cole o código abaixo em uma nova célula após cada `mapa.save(...)`:
 > ```python
